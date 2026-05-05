@@ -7,7 +7,7 @@
 *Turning complex technical problems into elegant, user-centric solutions.*
 
 [![Email](https://img.shields.io/badge/Email-aldropaltar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aldropaltar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aldropaltar-181717?style=flat-square&logo=github)](https://github.com/aldropaltar)
+[![GitHub](https://img.shields.io/badge/GitHub-AldroNathanielAltar-181717?style=flat-square&logo=github)](https://github.com/AldroNathanielAltar)
 
 </div>
 
@@ -34,6 +34,9 @@ I'm **Aldro Nathaniel P. Altar**, a BSIT student at **New Era University** with 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**📱 Mobile Development**
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 **⚙️ Software & Backend Development**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,7 +45,14 @@ I'm **Aldro Nathaniel P. Altar**, a BSIT student at **New Era University** with 
 
 **🗄️ Database Management**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**📊 Data & BI Tools**
+![Pentaho](https://img.shields.io/badge/Pentaho-FF6D00?style=flat-square&logoColor=white)
+
+**🎨 Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **🔧 Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -56,10 +66,18 @@ CapCut · ClipChamp · OBS Studio · Snapseed · Hypic
 
 ## 📜 Certifications
 
-| Certification | Provider |
-|---------------|----------|
-| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/475d1a2178f84834a17776a6b4d662c7#) | Cognitive Class |
-| [Data Analytics with AI](https://www.sololearn.com/certificates/CC-VRULU6IU) | Sololearn |
+| Certification | Provider | Link |
+|---------------|----------|------|
+| NoSQL and DBaaS 101 | Cognitive Class | [View Certificate](https://courses.cognitiveclass.ai/certificates/475d1a2178f84834a17776a6b4d662c7#) |
+| Data Analytics with AI | Sololearn | [View Certificate](https://www.sololearn.com/certificates/CC-VRULU6IU) |
+
+---
+
+## 📬 Contact Me
+
+| | |
+|--|--|
+| **Email** | [aldropaltar@gmail.com](mailto:aldropaltar@gmail.com) |
 
 ---
 
@@ -67,8 +85,8 @@ CapCut · ClipChamp · OBS Studio · Snapseed · Hypic
 
 <div align="center">
 
-![Aldro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldropaltar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldropaltar&layout=compact&theme=tokyonight&hide_border=true)
+![Aldro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldroNathanielAltar&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldroNathanielAltar&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -76,6 +94,6 @@ CapCut · ClipChamp · OBS Studio · Snapseed · Hypic
 
 <div align="center">
 
-*"Elegance is not a dispensable luxury, but a factor that decides between success and failure."*
+*"Carpe diem. Seize the day, boys. Make your lives extraordinary." — John Keating*
 
 </div>
