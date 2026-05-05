@@ -8,6 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-aldropaltar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aldropaltar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AldroNathanielAltar-181717?style=flat-square&logo=github)](https://github.com/AldroNathanielAltar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldro-nathaniel-altar-79abab407)
 
 </div>
 
@@ -78,6 +79,7 @@ CapCut · ClipChamp · OBS Studio · Snapseed · Hypic
 | | |
 |--|--|
 | **Email** | [aldropaltar@gmail.com](mailto:aldropaltar@gmail.com) |
+| **LinkedIn** | [Aldro Nathaniel Altar](https://www.linkedin.com/in/aldro-nathaniel-altar-79abab407) |
 
 ---
 
