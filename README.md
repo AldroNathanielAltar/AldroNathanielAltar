@@ -85,8 +85,7 @@ CapCut · ClipChamp · OBS Studio · Snapseed · Hypic
 
 <div align="center">
 
-![Aldro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldroNathanielAltar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldroNathanielAltar&layout=compact&theme=tokyonight&hide_border=true)
+![Aldro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldroNathanielAltar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
