@@ -81,16 +81,6 @@ CapCut · ClipChamp · OBS Studio · Snapseed · Hypic
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aldro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldroNathanielAltar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-</div>
-
----
-
 <div align="center">
 
 *"Carpe diem. Seize the day, boys. Make your lives extraordinary." — John Keating*
